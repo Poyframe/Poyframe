@@ -1,7 +1,10 @@
 ### Hi, I'm Poyframe
 
-Lighting & rendering artist working in Blender (Cycles and EEVEE).
-I build the tools I need in production together with Claude, Anthropic's AI, and share them here.
+3D generalist working toward becoming a **Technical Artist**. I enjoy the whole pipeline: modeling, rigging,
+animation, lighting and rendering in Blender, and building game prototypes in Unreal Engine.
+
+I'm not a programmer by trade, but I like solving production problems with tools. I build them together with
+Claude, Anthropic's AI, and share them here.
 
 #### Frameguard
 [**Frameguard**](https://github.com/Poyframe/frameguard) is an overnight render queue for Blender
