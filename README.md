@@ -10,4 +10,4 @@ from the missing frames only. Windows · English/Spanish ·
 [Download the latest version](https://github.com/Poyframe/frameguard/releases/latest)
 
 #### Find me
-[ArtStation](https://www.artstation.com/cristiancamacho9) · [Instagram](https://www.instagram.com/duque3d7/) · [Vimeo](https://vimeo.com/user137748777)
+[ArtStation](https://www.artstation.com/cristiancamacho9) · [Instagram](https://www.instagram.com/duque3d7/) · [Vimeo](https://vimeo.com/user137748777) · [LinkedIn](https://www.linkedin.com/in/cristian-david-duque-camacho)
